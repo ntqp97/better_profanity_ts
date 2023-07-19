@@ -17,8 +17,10 @@
   "license": "ISC",
   "repository" : {
     "type" : "git",
-    "url": "ssh://git@github.com:ntqp97/better_profanity_ts.git",
-    "directory": ""
+    "url": "ssh://git@github.com:ntqp97/better_profanity_ts.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
     "@types/node": "^20.4.2",
