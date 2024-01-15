@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "ntqp97@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "repository" : {
     "type" : "git",
     "url": "ssh://git@github.com:ntqp97/better_profanity_ts.git"
