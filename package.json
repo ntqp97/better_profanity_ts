@@ -1,6 +1,6 @@
 {
   "name": "better_profanity_ts",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "censor dirty words",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,7 +12,13 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "keywords": [],
+  "keywords": [
+    "words",
+    "profanity",
+    "filter",
+    "badwords",
+    "dirty"
+  ],
   "author": "ntqp97@gmail.com",
   "license": "MIT",
   "repository" : {
