@@ -3,7 +3,7 @@
 
 Currently, the library has set up default filtering for profanity in both **English** and **Vietnamese** languages
 
-![version](https://img.shields.io/npm/v/better_profanity_ts)
+[![version](https://img.shields.io/npm/v/better_profanity_ts)](https://www.npmjs.com/package/better_profanity_ts)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout)](https://github.com/ntqp97/better_profanity_ts/blob/master/LICENSE)
 
 Inspired from package profanity of Ben Friedland, this library is significantly faster than the original one, by using string comparison instead of regex.
