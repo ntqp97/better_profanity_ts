@@ -6,15 +6,13 @@ Currently, the library has set up default filtering for profanity in both **Engl
 [![version](https://img.shields.io/npm/v/better_profanity_ts)](https://www.npmjs.com/package/better_profanity_ts)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout)](https://github.com/ntqp97/better_profanity_ts/blob/master/LICENSE)
 
-Inspired from package profanity of Ben Friedland, this library is significantly faster than the original one, by using string comparison instead of regex.
-
 Inspired by a package [better_profanity](https://github.com/snguyenthanh/better_profanity) of [Son Thanh Nguyen](https://github.com/snguyenthanh), This library is a version designed for Node.js.
 
 It supports [modified spellings](https://en.wikipedia.org/wiki/Leet) (such as `p0rn`, `h4NDjob`, `handj0b` and `b*tCh`).
 
 ## Installation
 
-npm i -D better_profanity_ts
+npm i better_profanity_ts
 
 ## Unicode characters
 
