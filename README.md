@@ -1,4 +1,4 @@
-# better_profanity (Please rate star if it is useful to you)
+# better_profanity (Please rate star if it is useful to you, Thank you!)
 *Blazingly fast cleaning swear words (and their leetspeak) in strings*
 
 Currently, the library has set up default filtering for profanity in both **English** and **Vietnamese** languages
